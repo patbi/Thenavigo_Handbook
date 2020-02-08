@@ -12,7 +12,7 @@ This repository serves these purposes:
 
 It's a work-in-progress, something designed to be touched by anyone in our community. I'm particularly interested in getting feedback from new community members as you all will see things that the current team may unintentionally (and intentionally) ignore! Please help us identify our blindspots and **question everything**—[kaizen](https://en.wikipedia.org/wiki/Kaizen)!
 
-I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the YEN community! You're here because success isn't possible without you.
+I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the Navigo community! You're here because success isn't possible without you.
 
 To infinity (and bitcoin).
 
@@ -237,16 +237,16 @@ Here are a few things that aren't immediately obvious about us and our team.
 **How we refer to ourselves**
 
 - Legally, we are `ROFLCOPTER, INC.` But other than legal docs, you’ll rarely see this.
-- Most commonly, we refer to team, project, company as our core product, YEN.
-- YEN (all caps) is not an acronym.
-- You’ll also see accounts under [#](#) or `yenio` or `NavigoFTW` or `Navigo` (sometimes we couldn’t get just Navigo)
+- Most commonly, we refer to team, project, company as our core product, Navigo.
+- Navigo (all caps) is not an acronym.
+- You’ll also see accounts under [#](#) or `navigoio` or `NavigoFTW` or `Navigo` (sometimes we couldn’t get just Navigo)
 - If "Navigo" is combined with another word, it's not capitalized (e.g. `NavigoIQ`)
 
 **Some terms you’ll see tossed around:**
 
 - `Navigoizen` - Members of our amazing community
 - `Navigoiverse` - What we're building as well as our community space
-- `Navigoi` or `Yenni` (what community members named the company mascot, the [Navigoicorn](#))
+- `Navigoi` or `Navigoni` (what community members named the company mascot, the [Navigoicorn](#))
 
 **My Meeting, My Notes**
 
@@ -355,15 +355,15 @@ Right now, we use the following tools to discuss the Handbook:
 
 This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This Handbook is not a contract, express or implied, guaranteeing employment for any specific duration.
 
-This Handbook is designed to familiarize employees with the employment policies of YEN. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by YEN to benefit its employees.
+This Handbook is designed to familiarize employees with the employment policies of Navigo. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by Navigo to benefit its employees.
 
-No Employee Handbook can anticipate every circumstance or question about policy. As YEN continues to grow and as business needs, employment legislation and economic conditions change, YEN reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
+No Employee Handbook can anticipate every circumstance or question about policy. As Navigo continues to grow and as business needs, employment legislation and economic conditions change, Navigo reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
 
-Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous YEN Employee Handbooks or other YEN policies, whether written or oral.
+Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous Navigo Employee Handbooks or other Navigo policies, whether written or oral.
 
-Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between YEN and any of its employees. No person can enter into an employment contract with YEN for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
+Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between Navigo and any of its employees. No person can enter into an employment contract with Navigo for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
 
-The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at YEN’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “YEN”.
+The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at Navigo’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “Navigo”.
 
 
 
