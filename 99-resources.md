@@ -5,21 +5,21 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 **Table of Contents**
 
-1. [General HR, PeopleOps](https://github.com/yenio/handbook/blob/master/99-resources.md#general-hr-peopleops)
-2. [Hiring](https://github.com/yenio/handbook/blob/master/99-resources.md#hiring)
-3. [Onboarding](https://github.com/yenio/handbook/blob/master/99-resources.md#onboarding)
-4. [Growing Culture](https://github.com/yenio/handbook/blob/master/99-resources.md#growing-culture)
-5. [Personal Development](https://github.com/yenio/handbook/blob/master/99-resources.md#personal-development)
-6. [Leadership and Management](https://github.com/yenio/handbook/blob/master/99-resources.md#leadership-and-management)
-7. [Mentorship and Coaching](https://github.com/yenio/handbook/blob/master/99-resources.md#mentorship-and-coaching)
-8. [Working Remote](https://github.com/yenio/handbook/blob/master/99-resources.md#working-remote)
-9. [Team Dynamics](https://github.com/yenio/handbook/blob/master/99-resources.md#team-dynamics)
-10. [Productivity](https://github.com/yenio/handbook/blob/master/99-resources.md#productivity)
-11. [Diversity, Inclusion, Family, Gender](https://github.com/yenio/handbook/blob/master/99-resources.md#diversity-inclusion-family-gender)
-12. [Health](https://github.com/yenio/handbook/blob/master/99-resources.md#health)
-13. [Internship Programs](https://github.com/yenio/handbook/blob/master/99-resources.md#internship-programs)
-14. [Cost of Poor Culture, Bad Org Health](https://github.com/yenio/handbook/blob/master/99-resources.md#cost-of-poor-culture-bad-org-health)
-15. [Services, Providers](https://github.com/yenio/handbook/blob/master/99-resources.md#online-services-and-providers)
+1. [General HR, PeopleOps](https://github.com/Navigoio/handbook/blob/master/99-resources.md#general-hr-peopleops)
+2. [Hiring](https://github.com/Navigoio/handbook/blob/master/99-resources.md#hiring)
+3. [Onboarding](https://github.com/Navigoio/handbook/blob/master/99-resources.md#onboarding)
+4. [Growing Culture](https://github.com/Navigoio/handbook/blob/master/99-resources.md#growing-culture)
+5. [Personal Development](https://github.com/Navigoio/handbook/blob/master/99-resources.md#personal-development)
+6. [Leadership and Management](https://github.com/Navigoio/handbook/blob/master/99-resources.md#leadership-and-management)
+7. [Mentorship and Coaching](https://github.com/Navigoio/handbook/blob/master/99-resources.md#mentorship-and-coaching)
+8. [Working Remote](https://github.com/Navigoio/handbook/blob/master/99-resources.md#working-remote)
+9. [Team Dynamics](https://github.com/Navigoio/handbook/blob/master/99-resources.md#team-dynamics)
+10. [Productivity](https://github.com/Navigoio/handbook/blob/master/99-resources.md#productivity)
+11. [Diversity, Inclusion, Family, Gender](https://github.com/Navigoio/handbook/blob/master/99-resources.md#diversity-inclusion-family-gender)
+12. [Health](https://github.com/Navigoio/handbook/blob/master/99-resources.md#health)
+13. [Internship Programs](https://github.com/Navigoio/handbook/blob/master/99-resources.md#internship-programs)
+14. [Cost of Poor Culture, Bad Org Health](https://github.com/Navigoio/handbook/blob/master/99-resources.md#cost-of-poor-culture-bad-org-health)
+15. [Services, Providers](https://github.com/Navigoio/handbook/blob/master/99-resources.md#online-services-and-providers)
 
 
 
@@ -138,7 +138,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Publicly Dogfooding Your Culture](https://zachholman.com/posts/dogfooding-culture)
 - [Developing a Culture of Organizational Trust](https://john.do/org-trust/)
 - [6 Things Remote Companies Must Do To Build Great Culture](https://www.invisionapp.com/blog/remote-company-culture/)
-- [Pinning Culture](https://blog.yenio.co/pinning-culture/) - A share from our own archives.
+- [Pinning Culture](https://blog.Navigoio.co/pinning-culture/) - A share from our own archives.
 - [I'm a Woman in Tech and This is What I Want in a Company](https://code.likeagirl.io/i-am-a-woman-in-tech-and-this-is-what-i-want-in-a-company-f6177569a287)
 - [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures)
 - [Culture and Revolution](http://a16z.com/2017/03/04/culture-and-revolution-ben-horowitz-toussaint-louverture/)

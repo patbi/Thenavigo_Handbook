@@ -1,24 +1,24 @@
 # Employment Policies
 
-Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@yen.io)!
+Here you'll find more info on working @ Navigo. Questions? Ping [John](mailto:biyagapatrick@gmail.com)!
 
 **Table of Contents**
 
-0. [Onboarding (First Day / Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#onboarding-your-first-day--week)
-1. [Health Benefits](https://github.com/yenio/handbook/blob/master/1-employment.md#health-benefits-and-insurance)
-2. [At-Will Employment Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#at-will-employment-policy)
-3. [Equal Opportunity Employment](https://github.com/yenio/handbook/blob/master/1-employment.md#equal-opportunity-employment)
-4. [Code of Conduct](https://github.com/yenio/handbook/blob/master/1-employment.md#code-of-conduct)
-5. [Drug and Alcohol Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#drug-and-alcohol-policy)
-6. [Complaint Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#complaint-policy)
-7. [Working Remotely](https://github.com/yenio/handbook/blob/master/1-employment.md#working-remotely)
-8. [Employee Privacy](https://github.com/yenio/handbook/blob/master/1-employment.md#employee-privacy)
-9. [Company Credit Card](https://github.com/yenio/handbook/blob/master/1-employment.md#company-credit-card)
-10. [Wellness Stipend](https://github.com/yenio/handbook/blob/master/1-employment.md#wellness-stipend)
-11. [Relocation Costs Reimbursement](https://github.com/yenio/handbook/blob/master/1-employment.md#relocation-costs-reimbursement)
-12. [Reasonable Work Schedule (40-Hours per Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#reasonable-work-schedule-40-hours-per-week)
-13. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/yenio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
-14. [Leaving the Company](https://github.com/yenio/handbook/blob/master/1-employment.md#leaving-the-company)
+0. [Onboarding (First Day / Week)](https://github.com/Navigoio/handbook/blob/master/1-employment.md#onboarding-your-first-day--week)
+1. [Health Benefits](https://github.com/Navigoio/handbook/blob/master/1-employment.md#health-benefits-and-insurance)
+2. [At-Will Employment Policy](https://github.com/Navigoio/handbook/blob/master/1-employment.md#at-will-employment-policy)
+3. [Equal Opportunity Employment](https://github.com/Navigoio/handbook/blob/master/1-employment.md#equal-opportunity-employment)
+4. [Code of Conduct](https://github.com/Navigoio/handbook/blob/master/1-employment.md#code-of-conduct)
+5. [Drug and Alcohol Policy](https://github.com/Navigoio/handbook/blob/master/1-employment.md#drug-and-alcohol-policy)
+6. [Complaint Policy](https://github.com/Navigoio/handbook/blob/master/1-employment.md#complaint-policy)
+7. [Working Remotely](https://github.com/Navigoio/handbook/blob/master/1-employment.md#working-remotely)
+8. [Employee Privacy](https://github.com/Navigoio/handbook/blob/master/1-employment.md#employee-privacy)
+9. [Company Credit Card](https://github.com/Navigoio/handbook/blob/master/1-employment.md#company-credit-card)
+10. [Wellness Stipend](https://github.com/Navigoio/handbook/blob/master/1-employment.md#wellness-stipend)
+11. [Relocation Costs Reimbursement](https://github.com/Navigoio/handbook/blob/master/1-employment.md#relocation-costs-reimbursement)
+12. [Reasonable Work Schedule (40-Hours per Week)](https://github.com/Navigoio/handbook/blob/master/1-employment.md#reasonable-work-schedule-40-hours-per-week)
+13. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/Navigoio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
+14. [Leaving the Company](https://github.com/Navigoio/handbook/blob/master/1-employment.md#leaving-the-company)
 
 
 
@@ -81,11 +81,11 @@ We want your first week to feel as comfortable as possible making sure that you 
 
 If you qualify for [Health Benefits](#) then your enrollment period will start and you'll have only a few business days to make a decision - sooner rather than later! Ping John if you need anything or have questions.
 
-Also, you may feel inclined to share the news of your new role @ YEN via social media and we'd love you to do that! We do not have any policies or rules around social media — use good judgment and you can always ask anyone on the team about public posts.
+Also, you may feel inclined to share the news of your new role @ Navigo via social media and we'd love you to do that! We do not have any policies or rules around social media — use good judgment and you can always ask anyone on the team about public posts.
 
-But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/yenFTW), [YouTube](http://yen.show), a growing [newsletter](http://yen.buzz), and our team's [blog](http://blog.yen.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
+But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/NavigoFTW), [YouTube](http://Navigo.show), a growing [newsletter](http://Navigo.buzz), and our team's [blog](http://blog.Navigo.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
 
-Finally, we'd love some feedback on the onboarding experience! Please email [John](mailto:john@yen.io) after the first 30, 60, and 90 days with any and all feedback! Let's make this the best experience possible for our new team members!
+Finally, we'd love some feedback on the onboarding experience! Please email [John](mailto:john@Navigo.io) after the first 30, 60, and 90 days with any and all feedback! Let's make this the best experience possible for our new team members!
 
 
 
@@ -133,13 +133,13 @@ Keeping you one-hundred (or as close as we can).
 
 **Quick Links**
 
-1. [Healthcare and Disability Insurance](https://github.com/yenio/handbook/blob/master/1-employment.md#healthcare-and-disability-insurance)
-2. [Payroll](https://github.com/yenio/handbook/blob/master/1-employment.md#payroll-ie-getting-paid)
-3. [Observed Holiday List](https://github.com/yenio/handbook/blob/master/1-employment.md#observed-holiday-list-for-2020)
-4. [Vacation and Sick Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#vacation-and-sick-leave)
-5. [Paid Family, Parent Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#pregnancy-disability-leave)
-6. [Other Protected Absences](https://github.com/yenio/handbook/blob/master/1-employment.md#other-protected-absences)
-7. [Sabbatical](https://github.com/yenio/handbook/blob/master/1-employment.md#sabbatical)
+1. [Healthcare and Disability Insurance](https://github.com/Navigoio/handbook/blob/master/1-employment.md#healthcare-and-disability-insurance)
+2. [Payroll](https://github.com/Navigoio/handbook/blob/master/1-employment.md#payroll-ie-getting-paid)
+3. [Observed Holiday List](https://github.com/Navigoio/handbook/blob/master/1-employment.md#observed-holiday-list-for-2020)
+4. [Vacation and Sick Leave](https://github.com/Navigoio/handbook/blob/master/1-employment.md#vacation-and-sick-leave)
+5. [Paid Family, Parent Leave](https://github.com/Navigoio/handbook/blob/master/1-employment.md#pregnancy-disability-leave)
+6. [Other Protected Absences](https://github.com/Navigoio/handbook/blob/master/1-employment.md#other-protected-absences)
+7. [Sabbatical](https://github.com/Navigoio/handbook/blob/master/1-employment.md#sabbatical)
 
 
 
@@ -162,15 +162,15 @@ Keeping you one-hundred (or as close as we can).
 
 #### Healthcare and Disability Insurance
 
-YEN's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
+Navigo's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
 
-We offer medical, dental, and vision coverage at YEN for employees and their dependents.
+We offer medical, dental, and vision coverage at Navigo for employees and their dependents.
 
-- **Health Benefits:** Anthem Blue Cross of CA | [Platinum PPO](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_platinum_ppo_20_10_3000_3057.pdf) or [Gold PPO](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_20_30_6500_302g.pdf) - YEN covers 75% of Anthem Platinum PPO.
-- **Dental:** Beam | [CA Premium Plus 100/80/50/50-1500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_ca_beam_smart_premium_plus_100_80_50_501500.pdf) - YEN covers 75% of the Premium.
-- **Vision:** Beam | [CA VSP Choice Plan 2](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_beam_vsp_choice_plan_2.pdf) - YEN covers 75% of the Premium.
+- **Health Benefits:** Anthem Blue Cross of CA | [Platinum PPO](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_platinum_ppo_20_10_3000_3057.pdf) or [Gold PPO](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_20_30_6500_302g.pdf) - Navigo covers 75% of Anthem Platinum PPO.
+- **Dental:** Beam | [CA Premium Plus 100/80/50/50-1500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_ca_beam_smart_premium_plus_100_80_50_501500.pdf) - Navigo covers 75% of the Premium.
+- **Vision:** Beam | [CA VSP Choice Plan 2](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_beam_vsp_choice_plan_2.pdf) - Navigo covers 75% of the Premium.
 
-You may review your benefits through [Gusto](http://gusto.com) at any time or ping [John](mailto:john@yen.io) directly. If eligible, you will have the opportunity to enroll during the proper enrollment period.
+You may review your benefits through [Gusto](http://gusto.com) at any time or ping [John](mailto:john@Navigo.io) directly. If eligible, you will have the opportunity to enroll during the proper enrollment period.
 
 #### Payroll (i.e. Getting Paid)
 
@@ -200,7 +200,7 @@ If a holiday falls on a weekend, we’ll let you know when the holiday will be o
 
 #### Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at YEN, so in addition to the recognized Holiday List above, YEN offers paid leave.  We encourage open conversations about time you need, and recommend at a minimum 2-3 weeks off a year.  Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.  
+Taking time off and recharging is critical to doing your best work at Navigo, so in addition to the recognized Holiday List above, Navigo offers paid leave.  We encourage open conversations about time you need, and recommend at a minimum 2-3 weeks off a year.  Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.  
 
 The same process for sick leave, with as much notice as possible understanding that week in advance may not be practical.
 
@@ -208,13 +208,13 @@ Employees with chronic or terminal illnesses should talk with the founder they r
 
 ## Paid Family, Parent Leave
 
-YEN offers 12 weeks of paid leave for all full time employees, regardless of gender or sexual identity, after the birth or adoption of a child. This time is for the new parent to welcome the newborn or newly adopted child or children into their home and family. The leave should be taken within a year after the birth or adoption of the child.
+Navigo offers 12 weeks of paid leave for all full time employees, regardless of gender or sexual identity, after the birth or adoption of a child. This time is for the new parent to welcome the newborn or newly adopted child or children into their home and family. The leave should be taken within a year after the birth or adoption of the child.
 
 Employees should give the rest of the team as much notice as possible before they take new parent leave, though there is no requirement for how far in advance notification needs to be given. Parenthood can be unexpected and sensitive, but the more that a team can anticipate the absence, the easier it will be to handle.
 
-Paid time off of any kind, including New Parent Leave, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has worked for YEN for 4 years will be eligible to take a sabbatical after 1 more year of work. If they took 12 weeks of new parent leave, when they returned they would still have 1 full year of work before they were eligible for their sabbatical.
+Paid time off of any kind, including New Parent Leave, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has worked for Navigo for 4 years will be eligible to take a sabbatical after 1 more year of work. If they took 12 weeks of new parent leave, when they returned they would still have 1 full year of work before they were eligible for their sabbatical.
 
-In California, State Disability Insurance and Paid Family Leave programs will pay part of an employees salary who are unable to work due to pregnancy and childbirth. It is illegal for an employer to overpay an employee while they are using those programs, so YEN will supplement them to maintain the employee's salary instead of paying the full salary on top of them.
+In California, State Disability Insurance and Paid Family Leave programs will pay part of an employees salary who are unable to work due to pregnancy and childbirth. It is illegal for an employer to overpay an employee while they are using those programs, so Navigo will supplement them to maintain the employee's salary instead of paying the full salary on top of them.
 
 ## Other Protected Absences
 
@@ -232,11 +232,11 @@ Employees will be granted up to 3 days paid time to serve on a jury or as a witn
 
 #### Other Leaves of Absence
 
-YEN will grant leaves of absence for other activities as required by law. Unless otherwise required by law, employees will not be paid for such leaves of absence.  
+Navigo will grant leaves of absence for other activities as required by law. Unless otherwise required by law, employees will not be paid for such leaves of absence.  
 
 ## Sabbatical
 
-After every 4 years of working at YEN, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
+After every 4 years of working at Navigo, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
 
 During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. This could be researching a topic of interest, working for the US Digital Service, helping a nonprofit, or something else altogether.
 
@@ -246,7 +246,7 @@ The sabbatical is meant to help further our core value of improvement by letting
 
 To make sure that sabbatical is not overly disruptive to their team, employees should have taken fewer than twelve weeks of paid time off in the year before a sabbatical. They should also notify the team that they will be taking the sabbatical at least 4 weeks in advance.
 
-There is an expectation that employees return to work at YEN after their sabbatical, and not use it as a soft exit from the company. This is our investment in you!
+There is an expectation that employees return to work at Navigo after their sabbatical, and not use it as a soft exit from the company. This is our investment in you!
 
 Paid time off of any kind, including Sabbatical, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has accrued 3 sick days before taking a 12 week sabbatical will still have 3 available sick days when they return.
 
@@ -296,7 +296,7 @@ Paid time off of any kind, including Sabbatical, does not accrue additional paid
 
 #### At-Will Employment Policy
 
-Your employment with the YEN is "AT WILL".  This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause.  
+Your employment with the Navigo is "AT WILL".  This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause.  
 
 No one in the company other than the CEO has the authority to alter your at-will status or to enter into any agreement for employment for a specified period of time or to make any agreement contrary to this policy.  Only the CEO may do so, and only in a written agreement signed by both the CEO and you.
 
@@ -308,7 +308,7 @@ PinPT INC is an Equal Opportunity Employer. The company supports diversity and i
 
 #### Code of Conduct
 
-This code of conduct applies to community members and YEN team members in all YEN communities online (including but not limited to Slack, support chat, the YEN Community Slack group, Twitter, Facebook, and other social networking services), in the YEN office, and at all events hosted by YEN.
+This code of conduct applies to community members and Navigo team members in all Navigo communities online (including but not limited to Slack, support chat, the Navigo Community Slack group, Twitter, Facebook, and other social networking services), in the Navigo office, and at all events hosted by Navigo.
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
@@ -322,9 +322,9 @@ Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).
 
 #### Non-Disclosure Policy
 
-All information regarding YEN, its clients, products and services is to be held in the strictest confidence. You are prohibited from using or disclosing business or client information that is not generally available to the public either during employment or after separation of service from YEN. Any information learned or developed during the course of work is the property of YEN and is to be used solely for the benefit of YEN and its clients.
+All information regarding Navigo, its clients, products and services is to be held in the strictest confidence. You are prohibited from using or disclosing business or client information that is not generally available to the public either during employment or after separation of service from Navigo. Any information learned or developed during the course of work is the property of Navigo and is to be used solely for the benefit of Navigo and its clients.
 
-The protection of confidential business information and trade secrets is vital to the interests and the success of YEN. Such confidential information includes, but is not limited to, the following examples:
+The protection of confidential business information and trade secrets is vital to the interests and the success of Navigo. Such confidential information includes, but is not limited to, the following examples:
 
 • Employee Information
 • Computer programs and codes
@@ -342,40 +342,40 @@ Employees who improperly use or disclose trade secrets or confidential business 
 
 #### Conflicts of Interest
 
-Employees have an obligation to conduct the Company’s business free from actual or potential conflicts of interest. Employees should not have, either directly or indirectly, any financial or other interest in any entity that is a supplier or client of the Company. Outside employment or professional service to any other company cannot affect one’s ability to work efficiently in discharging responsibilities to YEN or one’s ability to act in the best interests of the Company.
+Employees have an obligation to conduct the Company’s business free from actual or potential conflicts of interest. Employees should not have, either directly or indirectly, any financial or other interest in any entity that is a supplier or client of the Company. Outside employment or professional service to any other company cannot affect one’s ability to work efficiently in discharging responsibilities to Navigo or one’s ability to act in the best interests of the Company.
 
-No “presumption of guilt” is created by the mere existence of a relationship with an outside Company. However, if you have any influence on transactions involving purchases, contracts, or leases with such companies, it is imperative that you disclose such transactions to YEN’s Legal department as soon as possible. In this manner the Company can safeguard all parties against the existence of any actual or potential conflict of interest.
+No “presumption of guilt” is created by the mere existence of a relationship with an outside Company. However, if you have any influence on transactions involving purchases, contracts, or leases with such companies, it is imperative that you disclose such transactions to Navigo’s Legal department as soon as possible. In this manner the Company can safeguard all parties against the existence of any actual or potential conflict of interest.
 
-The offer or acceptance of certain courtesies of nominal value, generally not to exceed $100.00, such as meals, entertainment or gifts may be acceptable as long as they do not affect the Company’s business relationship. However, unacceptable personal gain is realized when you or your relative has a significant ownership in a company with which YEN does business, or when you or your relative receives any kickback, bribe, substantial gift, or special consideration as a result of any transaction or business activity involving YEN.
+The offer or acceptance of certain courtesies of nominal value, generally not to exceed $100.00, such as meals, entertainment or gifts may be acceptable as long as they do not affect the Company’s business relationship. However, unacceptable personal gain is realized when you or your relative has a significant ownership in a company with which Navigo does business, or when you or your relative receives any kickback, bribe, substantial gift, or special consideration as a result of any transaction or business activity involving Navigo.
 
-You are not permitted to give unauthorized gifts to suppliers, vendors or clients. However, you may give certain promotional items, such as coffee mugs or other items imprinted with the YEN logo or sales information, as appropriate.
+You are not permitted to give unauthorized gifts to suppliers, vendors or clients. However, you may give certain promotional items, such as coffee mugs or other items imprinted with the Navigo logo or sales information, as appropriate.
 
-These guidelines establish only the framework within which YEN expects the business to be conducted. The purpose of these guidelines is to provide general direction so you can seek further clarification on issues related to acceptable standards of behavior and operation. Contact
+These guidelines establish only the framework within which Navigo expects the business to be conducted. The purpose of these guidelines is to provide general direction so you can seek further clarification on issues related to acceptable standards of behavior and operation. Contact
 Su for more information or questions about conflicts of interest.
 
 #### Drug and Alcohol Policy
 
-Our priority at YEN is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at YEN feel safe.
+Our priority at Navigo is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at Navigo feel safe.
 
 **It is the responsibility of every employee to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe.**
 
-Employees who violate this policy may face disciplinary action, up to and including termination. Alcohol in the form of beer or wine may occasionally be brought into the office to celebrate an accomplishment, birthday, or other milestone. Though events at the YEN office will be presumed dry until otherwise discussed, there may also be events in the office after work where beer or wine are available.
+Employees who violate this policy may face disciplinary action, up to and including termination. Alcohol in the form of beer or wine may occasionally be brought into the office to celebrate an accomplishment, birthday, or other milestone. Though events at the Navigo office will be presumed dry until otherwise discussed, there may also be events in the office after work where beer or wine are available.
 
-Illegal drugs should not be used, bought, sold, or distributed while at work, either in the office or outside of the office while representing YEN.
+Illegal drugs should not be used, bought, sold, or distributed while at work, either in the office or outside of the office while representing Navigo.
 
 #### Complaint Policy
 
-YEN is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
+Navigo is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
 
-YEN has an open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with the founder you report to as soon as possible. If for any reason you don’t feel comfortable discussing it with them, feel free to raise the issue with any other founder.
+Navigo has an open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with the founder you report to as soon as possible. If for any reason you don’t feel comfortable discussing it with them, feel free to raise the issue with any other founder.
 
-Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to John or any of the YEN founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
+Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to John or any of the Navigo founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
 
 Once a complaint has been made, the founders will meet and determine how to handle it. If one or more of the founders is the subject of the complaint, the remaining founder(s) will determine how to handle it. Any reports of a founder engaging in harassment or gross misconduct will trigger an outside investigator. With the employee’s permission, we will conduct a complete and impartial investigation, which may involve an outside investigator in serious cases. All complaints will be handled as confidentially as possible. When the investigation is complete, the company will take corrective action if appropriate.
 
 We will not engage in or allow retaliation against any employee who makes a good faith complaint or participates in an investigation. If you believe that you are being subjected to any kind of negative treatment because you made or were questioned about a complaint, report the conduct immediately to the founders.
 
-Currently, YEN is too small to have an internal group or department that can independently respond to complaints, so if the founders are named in complaints, they will do their best to hold one another accountable.  Where appropriate, the founders will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.
+Currently, Navigo is too small to have an internal group or department that can independently respond to complaints, so if the founders are named in complaints, they will do their best to hold one another accountable.  Where appropriate, the founders will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.
 
 
 
@@ -414,7 +414,7 @@ Currently, YEN is too small to have an internal group or department that can ind
 
 Currently we do not have a physical home office! This means that we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
 
-We wrote a [longer blog post](https://blog.yen.io/distributed-first/) about being a `Distributed-First` type of company.
+We wrote a [longer blog post](https://blog.Navigo.io/distributed-first/) about being a `Distributed-First` type of company.
 
 
 
@@ -441,17 +441,17 @@ We wrote a [longer blog post](https://blog.yen.io/distributed-first/) about bein
 
 #### Workspace Privacy
 
-As an employer, it is YEN’s goal to monitor or track our employees in as few ways as possible. We want YEN employees to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of YEN employees, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
+As an employer, it is Navigo’s goal to monitor or track our employees in as few ways as possible. We want Navigo employees to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of Navigo employees, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
 
-This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to YEN. YEN reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
+This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to Navigo. Navigo reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
 
 #### Email and Internet Privacy
 
-YEN email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
+Navigo email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
 
 #### Email Is Not Private
 
-Email messages, including attachments, sent and received from a YEN email address are the property of YEN. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your YEN email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
+Email messages, including attachments, sent and received from a Navigo email address are the property of Navigo. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Navigo email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 
 #### Use of the Email System for Personal Email
 
@@ -463,15 +463,15 @@ All of our policies and rules of conduct apply to employee use of the email syst
 
 #### Professional Tone and Content
 
-We expect you to exercise discretion in using electronic communications equipment. When you send email using a YEN email address or YEN social account, you are representing YEN. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
+We expect you to exercise discretion in using electronic communications equipment. When you send email using a Navigo email address or Navigo social account, you are representing Navigo. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
 
 #### Email Security
 
 To avoid email viruses, phishing for account information, and other threats, employees should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
 
-If you believe your computer has been infected by a virus, worm, or other security threat to YEN’s system, you must inform the founders immediately.
+If you believe your computer has been infected by a virus, worm, or other security threat to Navigo’s system, you must inform the founders immediately.
 
-Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the YEN network
+Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the Navigo network
 
 #### Internet Use Is Not Private
 
@@ -528,14 +528,14 @@ We reserve the right to monitor employee use of the Internet at any time. You sh
 
 ## Company Credit Card
 
-All team members will receive a company card from Brex for incidentals in the course of work for YEN. **Exercise good hygiene here** and always be sure to text the picture of receipts for record keeping. There are no hard and fast rules on what is acceptable but any expense here should be in pursuit of your work at YEN.
+All team members will receive a company card from Brex for incidentals in the course of work for Navigo. **Exercise good hygiene here** and always be sure to text the picture of receipts for record keeping. There are no hard and fast rules on what is acceptable but any expense here should be in pursuit of your work at Navigo.
 
 Examples:
 
 - Dropped your mouse and need a new one? Use the Brex!
-- Taking out a colleague for a meal to network and explain YEN? Use Brex.
+- Taking out a colleague for a meal to network and explain Navigo? Use Brex.
 - Maybe you need a new laptop bag. Brex, use it.
-- Need to book a plane ticket or hotel for a YEN event? Brex.
+- Need to book a plane ticket or hotel for a Navigo event? Brex.
 - Need a new notebook computer? Nope, check in with the team first.
 
 In general, when purchasing a good to use for business or an event supporting the business, you can use your Brex. If you want to support someone on a one time or recurring basis for a service, use your personal card to do so (gofundme, Patreon, etc).
@@ -628,7 +628,7 @@ We cover up to $5,000 in reimbursements moving-related costs.
 No, we’re committed to helping you do your best work wherever that may make sense for you. So we’ll cover moving expenses up to the cap no matter the reason.
 
 **Could I get an advance on my reimbursement?”**
-If you need an advance to cover a reimbursable cost, talk to [John](mailto:john@yen.io) to arrange it.
+If you need an advance to cover a reimbursable cost, talk to [John](mailto:john@Navigo.io) to arrange it.
 
 **If I move multiple times, does the $5,000 amount reset every time?**
 No, it’s a $5,000 cap per employee during the lifetime of employment.
@@ -673,7 +673,7 @@ We believe that the way to be most productive (and happy!) is with a reasonable,
 
 Consequently, we believe that **40-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. In other words, we pay San Francisco-based salary for 40-hours of work a week. We think that's fair and we believe this also minimizes the chance of burnout.
 
-And remember: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at YEN should design their own schedule around their own balance of work and life. It should be sustainable and reasonable.
+And remember: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at Navigo should design their own schedule around their own balance of work and life. It should be sustainable and reasonable.
 
 When we have a "crunch period", usually around ship dates, you should be well-rested and caught up on your errands, so if you need to work longer days than usual for a week or two so that a release can get out the door on time, you won't be exhausted. Make regular time for your family and friends throughout the year so that crunch periods don't become a habit, and work doesn't become a death march. Feel free to rearrange your weekly schedule, for example, working slightly longer on Monday through Thursday and taking Friday afternoons off during the summer.
 
@@ -755,7 +755,7 @@ Our policy is to review our compensation at every major financial event (e.g. ne
 
 Maybe one day.
 
-For now, we don't want to add in unnecessary overhead to anyone's role at YEN. We truly want our company to be one of openness and collaboration (we all have direct access to the founders in Slack!) in the early stages. So instead of having people managers, we'll all work together to move the ship together and ensure we're all doing our part individually.
+For now, we don't want to add in unnecessary overhead to anyone's role at Navigo. We truly want our company to be one of openness and collaboration (we all have direct access to the founders in Slack!) in the early stages. So instead of having people managers, we'll all work together to move the ship together and ensure we're all doing our part individually.
 
 Once we have our systems in place, there will be a place and a need for this but for now see our cards on Promotions and Compensation Adjustments to see why we don't want to force this at the moment.
 
@@ -821,7 +821,7 @@ Once we have our systems in place, there will be a place and a need for this but
 
 **First:**
 
-Don't leave! We're building this company to be a great place to work and the kind of company where people are happy to spend their entire careers. We love you and want you to stay here as long as possible. If you're starting to think of leaving due to causes totally in our control, please let us know before you decide to leave—we want to make this right. Email [John](mailto:john@yen.io) anytime!
+Don't leave! We're building this company to be a great place to work and the kind of company where people are happy to spend their entire careers. We love you and want you to stay here as long as possible. If you're starting to think of leaving due to causes totally in our control, please let us know before you decide to leave—we want to make this right. Email [John](mailto:john@Navigo.io) anytime!
 
 **BUT, if you are thinking of leaving:**
 
@@ -829,9 +829,9 @@ Please give us as much notice as possible. Tell us when you apply to graduate sc
 
 Also, we need time to plan and replace your almost irreplaceable self. Please help us out by letting us know well (months preferably) in advance.
 
-Notice of resignations should be given in writing (ideally after a conversation) to John. We would also like for you to participate in an exit interview as part of your offboarding process. The exit interview will afford an opportunity to discuss such issues as employee benefits, conversion privileges, or return of YEN-owned property. Suggestions, complaints, and questions can also be voiced and welcomed.
+Notice of resignations should be given in writing (ideally after a conversation) to John. We would also like for you to participate in an exit interview as part of your offboarding process. The exit interview will afford an opportunity to discuss such issues as employee benefits, conversion privileges, or return of Navigo-owned property. Suggestions, complaints, and questions can also be voiced and welcomed.
 
-Any YEN property issued to you, such as computer equipment, keys, and credit cards must be returned upon request or at the time of termination of employment. You will be responsible for any lost or damaged items.
+Any Navigo property issued to you, such as computer equipment, keys, and credit cards must be returned upon request or at the time of termination of employment. You will be responsible for any lost or damaged items.
 
 If you have options or restricted stock grants, please speak to John as soon as possible so that you fully understand what is going to happen with those stock grants and/or options.
 

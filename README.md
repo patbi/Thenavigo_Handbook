@@ -81,7 +81,7 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 Consequently, here are our current `operating virtues` (taken from our [blog]()):
 
 
-### 1. Table All The Things — `#tatt`
+### 1. Table All The Things — `#`
 Or, in other words, we “put everything out on the table” — the good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished prose. 
 
 Consequently, this means that what we share is going to be, quite often, incomplete, imperfect, and in sore need of serious polishing — we treat all updates with respect, knowing of the courage required to share something that may make the person look foolish, silly, or even stupid. Instead, we engage graciously, responding to the update with the care and attention that we’d hope to receive if it was our own, knowing that they’ve successfully modeled this virtue with excellence.
@@ -91,7 +91,7 @@ Finally, #tatt means that we’ll often share things that are intensely personal
 Our table is strong when trust is the foundation.
 
 
-### 2. Speed of Decision Making — `#sodm`
+### 2. Speed of Decision Making — `#`
 No bullshit: We are in a fight for our very survival and every single day we make life-altering decisions — sometimes, with very little data. Regardless, we agree with General Patton when he said “A good plan, violently executed now, is better than a perfect plan next week.” 
 
 That “plan”, by the way, is our first operating virtue, #tatt, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
@@ -131,19 +131,9 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 #### Patrick Biyaga - Founder | CEO / Engineering - [LinkedIn](https://www.linkedin.com/in/patrickbiyaga/)
 
-Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something..
+Holder of a bachelor's degree in computer science since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
 
 #### Amir Hossein Movahedi - Co-Founder | Head of Engineering - [Linkedin](#)
-
-Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. 
-
-
-#### Embanoho Maneng Sinclair - Co-Founder / Engineering - [Linkedin](#)
-
-Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. 
-
-
-#### The Navigocorn - Mascot - [LinkedIn](#)
 
 Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. 
 
