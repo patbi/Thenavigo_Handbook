@@ -1,7 +1,5 @@
 # Our Company Handbook
-*A Collaborative Handbook for our Team & Community*
-
-This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only a few pages to review (and update...)!
+*A Collaborative Handbook for our Navigo Team & Community*
 
 This repository serves these purposes:
 
@@ -13,10 +11,6 @@ This repository serves these purposes:
 It's a work-in-progress, something designed to be touched by anyone in our community. I'm particularly interested in getting feedback from new community members as you all will see things that the current team may unintentionally (and intentionally) ignore! Please help us identify our blindspots and **question everything**—[kaizen](https://en.wikipedia.org/wiki/Kaizen)!
 
 I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the Navigo community! You're here because success isn't possible without you.
-
-To infinity (and bitcoin).
-
-John // Chief Cartridge Blower
 
 [Feel free to [email me](mailto:biyagapatrick@gmail.com) at any time!]
 
@@ -78,7 +72,7 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 >
 >The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
 
-Consequently, here are our current `operating virtues` (taken from our [blog]()):
+Consequently, here are our current `operating virtues` (taken from our [blog](https://patbi.hashnode.dev/le-projet47-ck3lc9oie00pqeas17q9m3xuu)):
 
 
 ### 1. Table All The Things — `#`
@@ -86,7 +80,7 @@ Or, in other words, we “put everything out on the table” — the good, the b
 
 Consequently, this means that what we share is going to be, quite often, incomplete, imperfect, and in sore need of serious polishing — we treat all updates with respect, knowing of the courage required to share something that may make the person look foolish, silly, or even stupid. Instead, we engage graciously, responding to the update with the care and attention that we’d hope to receive if it was our own, knowing that they’ve successfully modeled this virtue with excellence.
 
-Finally, #tatt means that we’ll often share things that are intensely personal and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
+Finally, #sha means that we’ll often share things that are intensely personal and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
 
 Our table is strong when trust is the foundation.
 
@@ -94,9 +88,9 @@ Our table is strong when trust is the foundation.
 ### 2. Speed of Decision Making — `#`
 No bullshit: We are in a fight for our very survival and every single day we make life-altering decisions — sometimes, with very little data. Regardless, we agree with General Patton when he said “A good plan, violently executed now, is better than a perfect plan next week.” 
 
-That “plan”, by the way, is our first operating virtue, #tatt, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
+That “plan”, by the way, is our first operating virtue, #sha, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
 
-Otherwise, you should #tatt, providing all the above data and informing the team of your decision with a request for specific people to keep you accountable — this simply means that you will do what you say you’ll do and you’re asking for support in keeping that commitment on track.
+Otherwise, you should #sha, providing all the above data and informing the team of your decision with a request for specific people to keep you accountable — this simply means that you will do what you say you’ll do and you’re asking for support in keeping that commitment on track.
 
 
 
@@ -131,22 +125,20 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 #### Patrick Biyaga - Founder | CEO / Engineering - [LinkedIn](https://www.linkedin.com/in/patrickbiyaga/)
 
-Holder of a bachelor's degree in computer science since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
+Computer science graduate since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
 
-#### Amir Hossein Movahedi - Co-Founder | Head of Engineering - [Linkedin](#)
+#### Amir Hossein Movahedi - Co-Founder | Head of Engineering - [Github](https://github.com/Qolzam)
 
-Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. 
+I am a passionate and creative software engineer. I have been involved in the design and implementation of many software projects, including modern web applications, mobile applications, desktop applications. Currently my focus is on distributed system and cloud infrastructure. My interests range from entrepreneurship to food. I am also interested in technology, innovation, and technology education. In my spare time I am working on aeroponic and safe energy, saving the world resources. Also making IOT technology simple for teaching to new generation. 
 
 
 #### Venture Capital Firms
 
 We're fortunate to have the financial support from the following (repeat!) venture firms:
 
-1. ZZZZZZZZZZZZ — [X](#)
-2. ZZZZZZZZZZZZ — [X](#)
-3. ZZZZZZZZZZZZ  — [X](#)
-4. ZZZZZZZZZZZZ — [X](#)
-5. ZZZZZZZZZZZZ — [X](#)
+Project supported by - [SeeDoc](http://seedocs.herokuapp.com/) at the moment
+
+<!-- 1. ZZZZZZZZZZZZ — [X](#) -->
 
 We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
 
@@ -180,13 +172,26 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 ## Our Story
 
-It all started in 2016 as a small, personal challenge: I ([John](#)) wanted to try my hand at a `daily vlog`, uploading _at least_ one YouTube video every day for an entire year. It was hard af and, to make a very long story short, I was able to finish the project but only with my brother's ([Peter](#)) help: He provided a ton of accountability, inspiration, and encouragement so that I could make it to the end.
+It all started on January 27, 2018 as a small personal challenge: I (Patrick Biyaga) wanted to try my hand at building a social network, posting at least one post from my work every week for a whole year. It was hard and, to make a very short story short, I was able to finish the project but only with the help of the Tutorials from (Traversy Media): it provided a ton of features, inspiration and encouragement for me to get to the end and deploy it on Heroku.
 
-And... it worked! Just not in the way that I had planned or expected. You see, while my personal channel was growing by a few subscribers _every other day_, my brother's channel was winning new followers _every few minutes_ (he crossed 1,000 subs in < week)! Needless to say, we both felt like we were on to something exciting.
+And ... it worked! But not like I had planned or expected. You see, while the site was online not a lot of registrants were using it, but needless to say I felt like I was on to something exciting.
 
-Starting in `#defi`, we built a number of digital products including educational websites, web and native apps, and most importantly a **passionate community** that kept us hungry, encouraged, and plugged-in to their needs. Our momentum helped us raise 2 rounds of venture funding which, in turn, allowed us to add much-needed internal community members (i.e. staff). 
+At the beginning #challenge, I worked on creating a number of digital products, including educational websites, web and hybrid applications, This momentum leads me to focus on high-impact products/services, So I focus on one service namely SeeDoc: which is a web/mobile healthcare platform for almost two years, and during this time I win challenges namely:
 
-Our last pivot in [Q4 of 2020](#) was the most dramatic, taking everything we learned in the first few years and applying them smartly to the next evolution of our product and company as we explore the potential and power of `community` and `community data` for businesses of all shapes and sizes!
+1 - Startup Istanbul where I'm invited to present my project in October 2020.
+
+2 - TEF2020 organized by the Tony Elumelu Foundation I am also pre-selected to follow a training of entrepreneurs to benefit from a funding of $5000.
+
+I don't stop there I continue to apply for other challenges and decide to follow an entrepreneurship training at [YStartupSchool](https://www.startupschool.org/companies/fSMX9-jjeksa9Q?fbclid=IwAR1vytooA--F4rz6V9QuzC8JaltoNKG-GdRRVNdM1UZm3xY7u0yVRv71yJs). 
+
+
+in my researches on the web, in order to see if there's not an open source project that has been done for me so that I can compare the approaches of development of a social network (architecture/design/deployment/technologies), I came across Amir Movahedi who had actually developed an open source social network project and there I got in direct contact with him. like any open source project you have to polish it up so that it can be unique. 
+
+I make a proposal to change the direction of the open source project and turn it into a Q&A Community completely different from what has been done [Navigo](https://projet47.herokuapp.com/). of course before we participated in the battle of the startups on [Pioneer](https://play.pioneer.app/), but I found that I was wasting time there and that I had to decide to launch on my own.
+
+When the training at YStartupSchool ends I decide to contact a former Promoter of my first engineering school IAI-Cameroon, to talk about the [SeeDoc project](http://seedocs.herokuapp.com/) and if he can accompany us. we enter into discussion and at the end of this exchange we sign a Rapid Investment Agreement (AIR) contract.
+
+Which allowed us to finalize these two projects Navigo and SeeDoc in style and to add much-needed internal community members (i.e. staff) after the Post-Covid period.
 
 
 
