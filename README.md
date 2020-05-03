@@ -37,7 +37,7 @@ I'm so grateful that you're here and that you've decided to commit a season of y
 3. [Our Story](https://github.com/patbi/handbook#our-story)
 4. [Employment (Compensation and Benefits)](https://github.com/patbi/handbook/blob/master/1-employment.md)
 5. [Cultural Quirks](https://github.com/patbi/handbook#cultural-quirks)
-9. [Policy Changes, Legal Stuff](https://github.com/patbi/handbook#policy-changes-and-legal-stuff)
+6. [Policy Changes, Legal Stuff](https://github.com/patbi/handbook#policy-changes-and-legal-stuff)
 
 
 
@@ -159,10 +159,9 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 
 
+## Our Vision
 
-
-
-
+Create a community that protects and releases energies.
 
 
 
