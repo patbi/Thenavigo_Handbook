@@ -127,16 +127,12 @@ Otherwise, you should #sha, providing all the above data and informing the team 
 
 Computer science graduate since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
 
-#### Amir Hossein Movahedi - Co-Founder | Head of Engineering - [Github](https://github.com/Qolzam)
-
-I am a passionate and creative software engineer. I have been involved in the design and implementation of many software projects, including modern web applications, mobile applications, desktop applications. Currently my focus is on distributed system and cloud infrastructure. My interests range from entrepreneurship to food. I am also interested in technology, innovation, and technology education. In my spare time I am working on aeroponic and safe energy, saving the world resources. Also making IOT technology simple for teaching to new generation. 
-
 
 #### Venture Capital Firms
 
 We're fortunate to have the financial support from the following (repeat!) venture firms:
 
-Project supported by - [SeeDoc](http://seedocs.herokuapp.com/) at the moment
+Project supported by - [SeeDoc](http://see-docs.com/) at the moment
 
 <!-- 1. ZZZZZZZZZZZZ — [X](#) -->
 
@@ -188,7 +184,7 @@ in my researches on the web, in order to see if there's not an open source proje
 
 I make a proposal to change the direction of the open source project and turn it into a Q&A Community completely different from what has been done [Navigo](https://projet47.herokuapp.com/). of course before we participated in the battle of the startups on [Pioneer](https://play.pioneer.app/), but I found that I was wasting time there and that I had to decide to launch on my own.
 
-When the training at YStartupSchool ends I decide to contact a former Promoter of my first engineering school IAI-Cameroon, to talk about the [SeeDoc project](http://seedocs.herokuapp.com/) and if he can accompany us. we enter into discussion and at the end of this exchange we sign a Rapid Investment Agreement (AIR) contract.
+When the training at YStartupSchool ends I decide to contact a former Promoter of my first engineering school IAI-Cameroon, to talk about the [SeeDoc project](http://see-docs.com/) and if he can accompany us. we enter into discussion and at the end of this exchange we sign a Rapid Investment Agreement (AIR) contract.
 
 Which allowed us to finalize these two projects Navigo and SeeDoc in style and to add much-needed internal community members (i.e. staff) after the Post-Covid period.
 
