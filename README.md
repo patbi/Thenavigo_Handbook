@@ -167,30 +167,114 @@ Create a community that protects and releases energies.
 
 ## Our Story
 
-It all started on January 27, 2018 as a small personal challenge: I (Patrick Biyaga) wanted to try my hand at building a social network, posting at least one post from my work every week for a whole year. It was hard and, to make a very short story short, I was able to finish the project but only with the help of the Tutorials from (Traversy Media): it provided a ton of features, inspiration and encouragement for me to get to the end and deploy it on Heroku.
+My name is [Patrick Biyaga](https://about.me/biyaga), I am the Founder of Thenavigo & See-Docs and Freelance.
 
-And ... it worked! But not like I had planned or expected. You see, while the site was online not a lot of registrants were using it, but needless to say I felt like I was on to something exciting.
+Many people have already had the opportunity to read the many articles I have published on the Internet.
 
-At the beginning #challenge, I worked on creating a number of digital products, including educational websites, web and hybrid applications, This momentum leads me to focus on high-impact products/services, So I focus on one service namely SeeDoc: which is a web/mobile healthcare platform for almost two years, and during this time I win challenges namely:
+My ambition is to help you write reference articles, disseminate your ideas online and be recognized in your field.
 
-1 - Startup Istanbul where I'm invited to present my project in October 2020.
+Early 2018 - I am at a turning point. 
 
-2 - TEF2020 organized by the Tony Elumelu Foundation I am also pre-selected to follow a training of entrepreneurs to benefit from a funding of $5000.
+My life is about to become different from anything I've known so far. The routine that has been mine for 2 years is going to end and my landmarks will disappear.
 
-I don't stop there I continue to apply for other challenges and decide to follow an entrepreneurship training at [YStartupSchool](https://www.startupschool.org/companies/fSMX9-jjeksa9Q?fbclid=IwAR1vytooA--F4rz6V9QuzC8JaltoNKG-GdRRVNdM1UZm3xY7u0yVRv71yJs). 
+I jump into the unknown.
+
+I have been waiting for this transition for a long time. 
+
+From the moment I decided to undertake, I take a discipline of one article per week.
+
+Freedom is calling me. The desire to experience new things. To carry out my own projects. To travel more. To organize myself as I want.
+
+It's an exhilarating feeling.
+
+But it also comes with a certain amount of fear and anxiety.
+
+Will I earn enough money? Will I be able to work alone? Do I have what it takes? Aren't I going too fast?
+
+These questions are racing through my head. And, I must say, sometimes keep me awake at night.
+
+But deep down inside, I am confident that I am going to make it.
+
+I've been working and preparing for this moment for 2 years.
+
+"I want to quit. Writing is the worst job in the world."
+However, this trust was far from being earned.
+
+When I write my first content in 2018, I have no idea what I'm going to do.
+
+I publish them on Facebook, Linkedin, Twitter, Hashnode, Github, Substack without thinking and without setting a goal. I know nothing about writing, marketing or audience building. I just write to share my ideas. At no time do I imagine I can make a living out of it.
+
+The more I write, the more I understand how it works. I discover a new world that was unknown to me: the world of creators, bloggers, copywriters, content marketers, writers... who make a living from their writing.
+
+Some of them are salaried. Most of them are independent entrepreneurs who make a good living. Others are even huge stars!
+
+My curiosity is piqued.
 
 
-in my researches on the web, in order to see if there's not an open source project that has been done for me so that I can compare the approaches of development of a social network (architecture/design/deployment/technologies), I came across Amir Movahedi who had actually developed an open source social network project and there I got in direct contact with him. like any open source project you have to polish it up so that it can be unique. 
+I draw two conclusions: I like to write technical articles and it is possible to make a living from them.
 
-I make a proposal to change the direction of the open source project and turn it into a Q&A Community completely different from what has been done [Navigo](https://projet47.herokuapp.com/). of course before we participated in the battle of the startups on [Pioneer](https://play.pioneer.app/), but I found that I was wasting time there and that I had to decide to launch on my own.
+Until now, I had an innocent and naive approach to my writing. Now, I feel the desire to move up a gear.
 
-When the training at YStartupSchool ends I decide to contact a former Promoter of my first engineering school IAI-Cameroon, to talk about the [SeeDoc project](http://see-docs.com/) and if he can accompany us. we enter into discussion and at the end of this exchange we sign a Rapid Investment Agreement (AIR) contract.
+But one question strikes me: why are there so few people who write regularly?
 
-Which allowed us to finalize these two projects Navigo and SeeDoc in style and to add much-needed internal community members (i.e. staff) after the Post-Covid period.
+I publish on the Facebook platform, Github... which are, at the moment, very popular. But I can see that there are only a handful of us producing quality content and taking this discipline seriously.
 
+This instils the little seed of doubt in me.
 
+Why are there so few of us producing quality content when there are so many possibilities and opportunities?
 
+At the moment, I don't have an answer to this question. But the more I move forward, the more I understand.
 
+The reason is simple: content production is a lonely, difficult and thankless activity.
+
+First of all, content production is a solitary activity.
+By definition, writing means being alone with your text.
+
+With a simple implication: if I want to write seriously and regularly, I have to be alone very often. I may be introverted, but even for people like me, it's not always easy to put up with.
+
+But that's not all.
+
+When I write, I also have to deal with another kind of loneliness.
+
+And this one is even more vicious. It is the feeling that no one understands what I do. Not being able to talk about my ideas, my challenges and my questions to those around me.
+
+I never know if my writing is good. I feel that I am always questioning my work. I am facing myself, my doubts and fears.
+
+I don't count the Saturday and Sunday afternoons I spend alone, in my pajamas, behind my desk to write. Without being able to talk to anyone about it.
+
+Secondly, writing is a difficult activity.
+I also realize that it is not only about writing and style. To get results, you have to master a whole bunch of skills:
+
+Constantly generating new content ideas
+
+Know how to build an audience
+
+To have notions of SEO
+
+Define a coherent positioning
+
+Build your email list and newsletter
+
+Be able to communicate publicly
+
+Know how to negotiate and sell yourself when you're freelance
+
+Identify the right platform to use for writing
+
+When I go for it, I don't master any of it.
+
+Finally, writing is ungrateful.
+While writing, I discovered a new feeling: that of putting one's guts into an article only to find oneself faced with general indifference. To create something that makes me proud and that nobody is interested in.
+
+When you think about it, it's normal that no one pays attention to what I do. I'm at the beginning of my career as a writer and my articles are not good.
+
+But at first it feels weird.
+
+I realize that it takes time to get real results. I have to be prepared to repeat the effort over time with a well-rounded strategic plan.
+
+On a day-to-day basis, this is not easy to manage. And I ask myself even more: "Is it worth continuing?".
+
+At this moment in my social network review I'm on Twitter and I come across [this article](https://www.startups.com/library/founder-stories/david-heinemeier-hansson)
 
 
 
