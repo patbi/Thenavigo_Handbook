@@ -227,7 +227,7 @@ At the moment, I don't have an answer to this question. But the more I move forw
 
 The reason is simple: content production is a lonely, difficult and thankless activity.
 
-First of all, content production is a solitary activity.
+1. First of all, content production is a solitary activity.
 By definition, writing means being alone with your text.
 
 With a simple implication: if I want to write seriously and regularly, I have to be alone very often. I may be introverted, but even for people like me, it's not always easy to put up with.
@@ -242,28 +242,28 @@ I never know if my writing is good. I feel that I am always questioning my work.
 
 I don't count the Saturday and Sunday afternoons I spend alone, in my pajamas, behind my desk to write. Without being able to talk to anyone about it.
 
-Secondly, writing is a difficult activity.
+2. Secondly, writing is a difficult activity.
 I also realize that it is not only about writing and style. To get results, you have to master a whole bunch of skills:
 
-Constantly generating new content ideas
+Constantly generating new content ideas :
 
-Know how to build an audience
+- Know how to build an audience
 
-To have notions of SEO
+- To have notions of SEO
 
-Define a coherent positioning
+- Define a coherent positioning
 
-Build your email list and newsletter
+- Build your email list and newsletter
 
-Be able to communicate publicly
+- Be able to communicate publicly
 
-Know how to negotiate and sell yourself when you're freelance
+- Know how to negotiate and sell yourself when you're freelance
 
-Identify the right platform to use for writing
+- Identify the right platform to use for writing
 
 When I go for it, I don't master any of it.
 
-Finally, writing is ungrateful.
+3. Finally, writing is ungrateful.
 While writing, I discovered a new feeling: that of putting one's guts into an article only to find oneself faced with general indifference. To create something that makes me proud and that nobody is interested in.
 
 When you think about it, it's normal that no one pays attention to what I do. I'm at the beginning of my career as a writer and my articles are not good.
