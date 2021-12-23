@@ -89,6 +89,12 @@ Patrick Biyaga started coding for fun, creating applications for his friends, th
 
 
 
+After seven years of building apps for startups, in between alumni, I asked myself, "Why not explore the founding solo journey by creating the See-Docs and Thenavigo platforms, since I'm a web developer? We don't have any healthcare apps in my community, but in the big city, there are tons."
+
+I took the challenge and created these simple healthcare and (educational) applications for local patients in Cameroon, which I call See-Docs | Thenavigo! Patients have a quality service at their fingertips and it is free. "My goal is to provide this service to this community and to start making progress with our users, and potential paying users", "Today we have potential partners interested in our projects to make them high potential projects.
+
+
+
 
 
 
