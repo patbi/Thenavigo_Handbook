@@ -50,6 +50,16 @@ I'm so grateful that you're here and that you've decided to commit a season of y
 I am an engineer in cybersecurity and network solutions, web developer, and project manager currently living in Cameroon. My interests range from technology to entrepreneurship. I am also interested in web development, innovation, and programming.
 
 
+💬💻 I am a freelance web developer who from the client's need makes a prototype that is tested, validated and delivered. I have done and am doing missions as a consultant in a local accounting firm.
+
+📚 My project, Thenavigo: is an online question and answer community. It is built in a conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, is for anyone working for themselves, but also for any everyday learner. It is highly valued by our beta testers with whom we are building and will build over time. It is available now: http://thenavigo.com
+
+🎙 I host our Youtube channel Thenavigo on all things new technologies. I talk about the technologies I use on a daily basis in my weekly publications. I present my work, my challenges and my successes.
+
+💌 I write the newsletter called, Thenavigo, about the ups and downs of working for yourself.
+
+
+
 #### Venture Capital Firms
 
 We're fortunate to have the financial support from the following (repeat!) venture firms:
@@ -71,6 +81,14 @@ Building the Metaverse trilogy.
 ## Our Story
 
 My name is [Patrick Biyaga](https://about.me/biyaga), I am the Founder of Thenavigo & See-Docs and Freelance.
+
+Patrick Biyaga started coding for fun, creating applications for his friends, then doing IT services. About seven years ago, I started freelancing as a web developer for startups and ONG(s). I created a lot of applications, and then someone gave me the idea to always have my own personal project, a suggestion that had a big impact on my career and my local community. Today, I am a web developer at See-Docs and Thenavigo.
+
+
+![Preview](https://github.com/patbi/Thenavigo_Handbook/blob/main/Login.png/)
+
+
+
 
 
 
