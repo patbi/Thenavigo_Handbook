@@ -85,7 +85,7 @@ My name is [Patrick Biyaga](https://about.me/biyaga), I am the Founder of Thenav
 Patrick Biyaga started coding for fun, creating applications for his friends, then doing IT services. About seven years ago, I started freelancing as a web developer for startups and ONG(s). I created a lot of applications, and then someone gave me the idea to always have my own personal project, a suggestion that had a big impact on my career and my local community. Today, I am a web developer at See-Docs and Thenavigo.
 
 
-![Preview](https://github.com/patbi/Thenavigo_Handbook/blob/main/Login.png/)
+![Preview](https://github.com/patbi/Thenavigo_Handbook/blob/master/Login.png/)
 
 
 
