@@ -54,7 +54,7 @@ I am an engineer in cybersecurity and network solutions, web developer, and proj
 
 📚 My project, Thenavigo: is an online question and answer community. It is built in a conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, is for anyone working for themselves, but also for any everyday learner. It is highly valued by our beta testers with whom we are building and will build over time. It is available now: http://thenavigo.com
 
-🎙 I host our Youtube channel Thenavigo on all things new technologies. I talk about the technologies I use on a daily basis in my weekly publications. I present my work, my challenges and my successes.
+🎙 I host our Youtube channel Thenavigo on all things new technologies. I talk about the technologies I use on a daily basis in my weekly publications. I present my work, my challenges and my success.
 
 💌 I write the newsletter called, Thenavigo, about the ups and downs of working for yourself.
 
@@ -85,7 +85,7 @@ My name is [Patrick Biyaga](https://about.me/biyaga), I am the Founder of Thenav
 Patrick Biyaga started coding for fun, creating applications for his friends, then doing IT services. About seven years ago, I started freelancing as a web developer for startups and ONG(s). I created a lot of applications, and then someone gave me the idea to always have my own personal project, a suggestion that had a big impact on my career and my local community. Today, I am a web developer at See-Docs and Thenavigo.
 
 
-![Preview](https://github.com/patbi/Thenavigo_Handbook/blob/master/Login.png/)
+![Preview](https://github.com/patbi/Thenavigo_Handbook/blob/master/Login.PNG)
 
 
 
