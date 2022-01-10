@@ -1,3 +1,25 @@
+Je veux juste souhaiter à tout le monde un joyeux Noël ou tout ce que vous célébrez,
+j'espère que vous passez de bonnes vacances en toute sécurité !
+
+
+#MerryChristmas !
+
+
+
+D'une manière douce, vous pouvez secouer le monde
+
+
+https://twitter.com/rachelnabors/status/1474380186191806488
+
+
+Le cœur plein, je vous souhaite à tous un joyeux Noël ! 🎅🏻🙏🏽❤️ 
+
+RFM segmentation
+
+
+#artificalintelligence #startups #cmr #tech #technology #deeptech #engineering #software #machinelearning #datascience
+
+
 # Our Company Handbook
 *A Collaborative Handbook for our Thenavigo Team & Community*
 
@@ -104,12 +126,31 @@ I took the challenge and created these simple healthcare and (educational) appli
 
 
 ## Policy Changes and Legal Stuff
+*The only constant is change...*
+
+We want all of our policies to be living documents which can improve and change as we learn and grow as a company. This is how we'll propose and make changes to our policies.
+
+Right now, we use the following tools to discuss the Handbook:
+
+1. **GitHub** - The canonical resource. Feel free to open a pull request with context!
+
+2. **In Person Meetings** - Our hope is that as we grow and scale, we'll have more opportunities to gather in-person and virtually to discuss the #handbook openly.
 
 
 
 
 #### Handbook Use, Policy
+This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This Handbook is not a contract, express or implied, guaranteeing employment for any specific duration.
 
+This Handbook is designed to familiarize employees with the employment policies of Thenavigo. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by Thenavigo to benefit its employees.
+
+No Employee Handbook can anticipate every circumstance or question about policy. As Thenavigo continues to grow and as business needs, employment legislation and economic conditions change, Thenavigo reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
+
+Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous Thenavigo Employee Handbooks or other Thenavigo policies, whether written or oral.
+
+Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between Thenavigo and any of its employees. No person can enter into an employment contract with Thenavigo for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
+
+The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at Thenavigo’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “Thenavigo”.
 
 
 
