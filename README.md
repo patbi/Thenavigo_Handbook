@@ -1,25 +1,3 @@
-Je veux juste souhaiter à tout le monde un joyeux Noël ou tout ce que vous célébrez,
-j'espère que vous passez de bonnes vacances en toute sécurité !
-
-
-#MerryChristmas !
-
-
-
-D'une manière douce, vous pouvez secouer le monde
-
-
-https://twitter.com/rachelnabors/status/1474380186191806488
-
-
-Le cœur plein, je vous souhaite à tous un joyeux Noël ! 🎅🏻🙏🏽❤️ 
-
-RFM segmentation
-
-
-#artificalintelligence #startups #cmr #tech #technology #deeptech #engineering #software #machinelearning #datascience
-
-
 # Our Company Handbook
 *A Collaborative Handbook for our Thenavigo Team & Community*
 
